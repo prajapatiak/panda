@@ -104,3 +104,77 @@ a{
 .header-btn a:hover {
     background: #f51843;
 }
+
+/* About section start */
+
+.agency-main{
+    float: left;
+    width: 100%;
+    padding: 40px 65px;
+}
+
+.agency-main .agency{
+    float: left;
+    width: 100%;
+}
+
+.agency-main .agency .title{
+    text-align: center;
+}
+
+.agency-main .agency .title h1{
+    font-size: 3.325rem;
+    font-weight: 700;
+    line-height: 1em;
+}
+
+.bannerr-main{
+    float: left;
+    width: 100%;
+}
+
+.bannerr{
+    display: flex;
+    width: 100%;
+}
+
+.image-part{
+    float: left;
+    width: 50%;
+}
+
+.image-part img{
+    width: 100%;
+}
+
+.text-part{
+    width: 50%;
+    padding-left: 80px ;
+}
+
+.text-part .small-title{
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 700;
+    letter-spacing: 0.13em;
+    color: #080337;
+    margin-bottom: 1.1em;
+}
+
+.text-part h1{
+    font-size: 3.352em;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: -0.03em;
+    color: #080337;
+    line-height: 55px;
+    margin-bottom: 28px;
+}
+
+.text-part p{
+    font-size: 18px;
+    font-style: normal;
+    letter-spacing: -0.03em;
+    color: #787C8B;
+    margin-bottom: 28px;
+}
