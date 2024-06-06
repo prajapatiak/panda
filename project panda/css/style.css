@@ -104,3 +104,19 @@ a{
 .header-btn a:hover {
     background: #f51843;
 }
+.faq-main-section{
+    width: 100%;
+    float: left;
+}
+.faq-content{
+    width: 100%;
+    float: left;
+    text-align: center
+}
+.faq-content h1{
+ font-size: 55px;
+ margin-bottom: 30px;   
+}
+.faq-content span{
+font-size: 20px;
+}
