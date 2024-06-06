@@ -98,7 +98,7 @@ a{
 .header-btn {
     width: auto;
     display: inline-block;
-    padding-left: 40px;
+    padding-left: 20px;
 }
 
 .header-btn a:hover {
@@ -177,4 +177,23 @@ a{
     letter-spacing: -0.03em;
     color: #787C8B;
     margin-bottom: 28px;
+.faq-main-section{
+    width: 100%;
+    float: left;
+}
+.faq-content{
+    width: 100%;
+    float: left;
+    text-align: center
+}
+.faq-content h1{
+ font-size: 55px;
+ margin-bottom: 30px;   
+}
+.faq-content span{
+font-size: 20px;
+}
+.faq-accordian{
+    width: 100%;
+    float: left;
 }
