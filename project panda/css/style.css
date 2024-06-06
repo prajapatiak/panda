@@ -120,3 +120,7 @@ a{
 .faq-content span{
 font-size: 20px;
 }
+.faq-accordian{
+    width: 100%;
+    float: left;
+}
